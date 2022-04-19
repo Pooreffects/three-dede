@@ -1,0 +1,12 @@
+{
+  "name": "three-dede",
+  "version": "1.0.0",
+  "description": "A lightweight CLI to spin up a three js project",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Pooreffects",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
